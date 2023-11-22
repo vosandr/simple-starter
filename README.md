@@ -4,3 +4,4 @@ https://github.com/vosandr/Japy
 
 # Главная страница
 https://github.com/vosandr
+# Концепты, которые будут основаны на данном концепте
